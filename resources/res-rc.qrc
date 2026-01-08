@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>res-rc.qrc</file>
+    <file>icons/download_2_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/upload_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/wand_shine_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg</file>
+  </qresource>
+</RCC>
